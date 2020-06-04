@@ -27,3 +27,31 @@ id | user | Nombre estudiante  | Página personal examen
 23 | crl347 | CLAUDIO RODRIGUEZ LOPEZ | [Claudio1812](Claudio1812.md)
 24 | ssa338 | STEFAN SEVDALINOV ALEKOV | [0](0.md)
 25 | jsm406 | JUAN SOLER MARQUEZ | [juansolerual](juansolerual.md)
+
+
+
+## EJERCICIO1
+
+Forkea este repositorio y modifica tu página .md con los enlaces a las respuestas. 
+Envía tus cambios a este repositorio.
+
+
+## EJERCICIO2
+
+En tu pagina .md tienes la IP de una sencilla aplicación web "To-Do". 
+
+- Crea un repositorio privado y da acceso al profesor: ualjjcanada
+
+- Realiza con Selenium las pruebas necesarias para verificar que la aplicación web funciona correctamente. Guardalas en el repositorio
+
+- Exporta tus test a JUnit WebDriver. Prueba que funcionan en JUnit
+
+- Crea un proyecto en Jenkins que ejecute los test. 
+
+- Indica en tu página personal del examen: el repositorio donde has resuelto el ejercicio, el enlace a Jenkins y el nombre del proyecto Jenkins donde lo has resuelto
+
+
+## EJERCICIO3
+
+
+
