@@ -1,6 +1,7 @@
 # examJun2020
 
-
+id | user | Nombre estudiante  | Página personal examen  
+--- | --------- | ---------------------------------- | -----------------
 1 | pat533 | PABLO ALMANSA TORRES | [pakar12](pakar12.md)
 2 | aaf842 | ALEJO MARTIN ARIAS FILIPPO | [alejomaf](alejomaf.md)
 3 | aba693 | AARON BLANCO ALVAREZ | [aaronblanco](aaronblanco.md)
